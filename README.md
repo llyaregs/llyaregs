@@ -25,11 +25,11 @@
 
 
 <!--Intro start-->
--👤 Name: Areli Ametyally Gonzalez Sanchez
+-👤 **Name:** Areli Ametyally Gonzalez Sanchez
 
--🙂 Pronouns: She/her
+-🙂 **Pronouns:** She/her
 
--📍 Location: Orizaba, Veracruz.
+-📍 **Location:** Orizaba, Veracruz.
 
 -🔭 I’m currently working on **SqlServer, Posgrest**
 
